@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy cursando el programa ONE en Alura para FullStack con Java<br>🤝 Estoy en búsqueda de mi primer empleo <br>🌱 Me encuentro aprendiendo sobre js y java<br>⚡ Soy fan de python.
+🔭 Actualmente estoy cursando Argentina Programa 4.0 para FullStack con Java<br>🤝 Estoy en búsqueda de mi primer empleo <br>🌱 Me encuentro aprendiendo sobre js y java<br>⚡ Soy fan de python.
 
 
 ## 🌐 Socials:
