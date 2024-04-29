@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy cursando Argentina Programa 4.0 para FullStack con Java<br>🤝 Estoy en búsqueda de mi primer empleo <br>🌱 Me encuentro aprendiendo sobre js y java<br>⚡ Soy fan de python.
+🔭 Actualmente estoy aprendiendo para desenvolveme como full stack<br>🌱 Me encuentro aprendiendo tanto react como spring<br>⚡ Soy fan de aprender siempre cosas nuevas.
 
 
 ## 🌐 Socials:
