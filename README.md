@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy aprendiendo para desenvolveme como full stack<br>🌱 Me encuentro aprendiendo tanto react como spring<br>⚡ Soy fan de aprender siempre cosas nuevas.
+🔭 Actualmente estoy aprendiendo para desenvolverme como full stack<br>🌱 Me encuentro aprendiendo tanto react como spring<br>⚡ Soy fan de aprender siempre cosas nuevas.
 
 
 ## 🌐 Socials:
